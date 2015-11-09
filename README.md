@@ -96,6 +96,7 @@ The solver can be run:
 
 
 > mvn package
+
 > java -cp target/sudoku-1.0-SNAPSHOT.jar org.sudoku.Sudoku 006 290 340 000 086 092 000 070 001 100 008 070 008 020 100 090 100 008 700 030 000 510 840 000 064
 
 Giving a result of:
