@@ -8,11 +8,18 @@ Dear Candidate,
 We are keen to find people who enjoy programming and are familiar with techniques such as
 Test Driven Development (TDD), Agile Methods and writing well-structured code.
 
-This project is a Sudoku resolver except the code is ugly.
-Please refactor the solution to improve the design, the maintainability
-and the error-handling.
+This project is a Sudoku resolver.The given code is legacy and not well crafted.
+
+**The objectives are :**
+* **Test and refactor the legacy Sudoku.java class**
+* **Use TDD technics** 
+* **Produce well-crafted code that express the domain**
+
+Watch this video [Trip Service Kata](https://www.youtube.com/watch?v=_NnElPO5BU0) to get a better understanding of this exercice goal. 
+We will discuss your work during a short face to face interview.
 
 You will need Maven, Java and an editor/IDE of your choice.
+**Please don't add any dependencies on the project.**
 
 We are looking for good style just as much as working code: and not solutions downloaded from the internet.
 
